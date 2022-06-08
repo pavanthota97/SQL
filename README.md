@@ -26,7 +26,12 @@ RDBMS
 	->columns are known as fields.
 	->rows are known as records.
 	->sql is not a case sensitive.
-
+	
+---------------------------------------------------------
+Database is nothing but the 1.Insertion
+			    2.Deletion.
+			    3.Updation.
+			    4.query.
 
 
 
