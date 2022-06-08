@@ -2,7 +2,7 @@
 
 
 
-SQL: SQL stands for standard Query Language.
+SQL: SQL stands for Structured Query Language.
 
 	->SQL is a standard language for storing, manipulating and retrieving data in databases.
 	->SQL became a standard of the American National Standards Institute (ANSI) in 1986, and of the International Organization for Standardization (ISO) in 1987
