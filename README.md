@@ -25,6 +25,7 @@ RDBMS
 	->tables having rows and columns.
 	->columns are known as fields.
 	->rows are known as records.
+	->sql is not a case sensitive.
 
 
 
