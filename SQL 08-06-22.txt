@@ -29,7 +29,9 @@ Database is nothing but the 1.Insertion
 			    2.Deletion.
 			    3.Updation.
 			    4.query.
+Some database systems require a semicolon at the end of each SQL statement.
 
+Semicolon is the standard way to separate each SQL statement in database systems that allow more than one SQL statement to be executed in the same call to the server.
 
 
 Some of The Most Important SQL Commands:-
