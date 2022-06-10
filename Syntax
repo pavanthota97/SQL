@@ -3,3 +3,7 @@ Syntax:-
 
  SELECT CustomerName, City FROM Customers;
  SELECT * FROM Customers;
+ SELECT * FROM Customers
+ WHERE Country='Mexico';
+ SELECT * FROM Customers
+ WHERE Country='Germany' AND City='Berlin';
