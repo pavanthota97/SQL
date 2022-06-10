@@ -7,3 +7,6 @@ Syntax:-
  WHERE Country='Mexico';
  SELECT * FROM Customers
  WHERE Country='Germany' AND City='Berlin';
+ 
+ SELECT * FROM Customers
+ORDER BY Country;
