@@ -77,6 +77,10 @@ Some of The Most Important SQL Commands:-
 -> The ORDER BY keyword sorts the records in ascending order by default. 
 -> To sort the records in descending order, use the DESC keyword.
 
+-------------------------------------------------------------------------------------------------------------------
+
+
+
 
 
 
