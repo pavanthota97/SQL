@@ -10,3 +10,6 @@ Syntax:-
  
  SELECT * FROM Customers
 ORDER BY Country;
+For descending 
+SELECT * FROM Customers
+ORDER BY Country DESC;
