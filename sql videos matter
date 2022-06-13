@@ -18,6 +18,12 @@ Synatax:-
   
  -> SELECT DISTINCT column name
     FROM Table name;
-    For distinct in the selected column the reapeated data will be printed for one time
+    For distinct in the selected column the reapeated data will be printed for one time.
+    
+  ->SELECT * or column name,c2,c2 etc.....
+    FROM table name 
+    WHERE column name=100;
+    
+    the name which is equal to 100 that data will be printed.
 
 
