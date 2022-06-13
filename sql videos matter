@@ -25,7 +25,7 @@ Synatax:-
     WHERE column name=100;
     
     the name which is equal to 100 that data will be printed.
-    
+                                                                                       Table Name:Marks
                                                                                           Sno	Names	Sub1 	Sub2	Sub3
                                                                                             1	  A	    40	  30	  50
                                                                                             2	  B	    18	  35	  65
@@ -33,7 +33,8 @@ Synatax:-
                                                                                             4	  D	    65	  70	  85
 
     ->SELECT * or column name c2,c3,c4 etc...
-      FROM table name
-      WHERE column name
+      FROM Marks;
+      WHERE Sub2=40 or Sub3=40;
+      The whole row will be printed in the result.
 
 
