@@ -14,5 +14,10 @@ SQL is database which stores the data and retrives the data from the database.
 Synatax:-
 ->SELECT  Column name Row1 name,Row2 ,Row3 etc....
   FROM Table name;
+  
+  
+ -> SELECT DISTINCT column name
+    FROM Table name;
+    For distinct in the selected column the reapeated data will be printed for one time
 
 
