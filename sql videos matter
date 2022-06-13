@@ -35,6 +35,11 @@ Synatax:-
     ->SELECT * or column name c2,c3,c4 etc...
       FROM Marks;
       WHERE Sub2=40 or Sub3=40;
-      The whole row will be printed in the result.
+    ->If the condition will be satified in one subject the whole row will be printed in the result.
+      
+      ->SELECT * or column name c2,c3,c4 etc...
+      FROM Marks;
+      WHERE Sub2=40 or Sub3=40;
+    ->If the condition will be satified in one subject the whole row will be printed in the result.
 
 
