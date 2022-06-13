@@ -25,5 +25,15 @@ Synatax:-
     WHERE column name=100;
     
     the name which is equal to 100 that data will be printed.
+    
+                                                                                          Sno	Names	Sub1 	Sub2	Sub3
+                                                                                            1	  A	    40	  30	  50
+                                                                                            2	  B	    18	  35	  65
+                                                                                            3  	C	    45	  60	  70 
+                                                                                            4	  D	    65	  70	  85
+
+    ->SELECT * or column name c2,c3,c4 etc...
+      FROM table name
+      WHERE column name
 
 
