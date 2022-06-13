@@ -12,7 +12,7 @@ SQL is database which stores the data and retrives the data from the database.
 ->In SQL it is not a case sensitive.
 
 Synatax:-
-->SELECT  Row1 name,Row2 ,Row3 etc....
+->SELECT  Column name Row1 name,Row2 ,Row3 etc....
   FROM Table name;
 
 
