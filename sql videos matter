@@ -41,5 +41,26 @@ Synatax:-
       FROM Marks;
       WHERE Sub2=40 AND Sub3=40;
     ->If the condition will be satified for two  subject then the whole row will be printed in the result.
+    
+    
+    
+    
+    
+    ->Order by  
+          ASC
+          DESC
+          
+      Table name:Student;    
+        Rollno       Name
+          4           A
+          6           D
+          3           Z
+          1           X
+          
+          Select * 
+            fro Student
+            order by rollno Asc;
+          
+    
 
 
