@@ -60,6 +60,14 @@ Synatax:-
           Select * 
             fro Student
             order by rollno Asc;
+            
+   As per the above the result will be the             
+        Rollno       Name
+          1           X
+          3           Z
+          4           A
+          6           D
+          
           
     
 
