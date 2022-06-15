@@ -142,7 +142,46 @@ VALUES (value1, value2, value3, ...);
 	FROM table_name
 	WHERE condition;
    
+   
+   
+   SQL Bitwise Operators:-   
+   
+   Operator	Description
+	&	Bitwise AND
+	|	Bitwise OR
+	^	Bitwise exclusive OR
 
+
+SQL Arithmetic Operators:-
+
+    Operator	Description	
+	+	Add	
+	-	Subtract	
+	*	Multiply	
+	/	Divide	
+	%	Modulo
+	
+	
+SQL Comparison Operators:-
+      Operator      Description	Example
+	=		Equal to	
+	>		Greater than	
+	<		Less than	
+	>=		Greater than or equal to	
+	<=		Less than or equal to	
+	<>		Not equal to
+
+SQL Compound Operators:-
+
+Operator	Description
+   +=	         Add equals
+   -=	         Subtract equals
+   *=	         Multiply equals
+   /=	         Divide equals
+   %=	         Modulo equals
+   &=	         Bitwise AND equals
+   ^-=	         Bitwise exclusive equals
+   |*=	         Bitwise OR equals
 
 
 
