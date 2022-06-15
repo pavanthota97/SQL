@@ -77,12 +77,49 @@ Some of The Most Important SQL Commands:-
 -> The ORDER BY keyword sorts the records in ascending order by default. 
 -> To sort the records in descending order, use the DESC keyword.
 
--------------------------------------------------------------------------------------------------------------------
+------------------------------------------------------------------------------------------------
+
+Syntax:-
+--------
+SELECT * FROM Customers
+ORDER BY Country ASC, CustomerName DESC;
 
 
 
+The INSERT INTO statement is used to insert new records in a table.
 
+INSERT INTO Syntax
+It is possible to write the INSERT INTO statement in two ways:
 
+1. Specify both the column names and the values to be inserted:
+INSERT INTO table_name (column1, column2, column3, ...)
+VALUES (value1, value2, value3, ...);
+
+2. If you are adding values for all the columns of the table, you do not need to specify the column names in the SQL query. However, make sure the order of the values is in the same order as the columns in the table. Here, the INSERT INTO syntax would be as follows:
+
+INSERT INTO table_name
+VALUES (value1, value2, value3, ...);
+  
+  
+  
+->update:-
+
+->The UPDATE statement is used to modify the existing records in a table.
+
+ ->UPDATE Syntax:-
+ UPDATE table_name
+ SET column1 = value1, column2 = value2, ...
+ WHERE condition;
+ 
+ 
+ 
+ ->Delete:-
+ 
+ ->The DELETE statement is used to delete existing records in a table.
+
+    ->DELETE Syntax:-
+    DELETE Syntax
+    DELETE FROM table_name WHERE condition;
 
 
 
